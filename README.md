@@ -3,7 +3,7 @@ This project predicts the streams based on many features, including danceability
 
 music.json - kaggle data was converted to json file to load
 
-musicFixed.json - I ran a script to delete all missing data, i.e. any data that was left blank or had '' in its place.
+musicFixed.json - I ran a script to delete all missing data, i.e. any data that was left blank or had '' in its place. This file was the result.
 
 Popular_Spotify_Songs.csv - This was the csv from Kaggle that was turned into music.json
 
